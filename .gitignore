@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Environment & local config
+*.local
+.env
+.env.*
+
+# Claude Code
+.claude/
+CLAUDE.md
+lessons.md
+
+# Editor
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
